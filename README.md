@@ -11,6 +11,7 @@
 ## 🛠️ ความต้องการ (Requirements)
 - [SMAPI - Stardew Modding API](https://smapi.io/)
 - Stardew Valley เวอร์ชั่น 1.6 ขึ้นไป
+- GenericModConfigMenu
 - *[แนะนำ]* **SmartChest** (หากต้องการฟังก์ชันการแสดงไอคอนหมวดหมู่)
 
 ## 🚀 วิธีการติดตั้ง (Installation)
